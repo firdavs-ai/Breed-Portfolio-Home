@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Personal portfolio website showcasing my projects, skills, and contact information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firdavs-ai/Breed-Portfolio-Home.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firdavs-ai/Breed-Portfolio-Home/issues"
+  },
+  "homepage": "https://github.com/firdavs-ai/Breed-Portfolio-Home#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
